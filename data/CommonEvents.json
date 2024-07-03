@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"list":[{"code":355,"indent":0,"parameters":["$gameVariables.setValue(4, $gameActors.actor(1).faceName());"]},{"code":655,"indent":0,"parameters":["$gameVariables.setValue(5, $gameActors.actor(1).faceIndex());"]},{"code":0,"indent":0,"parameters":[]}],"name":"Get Player Face","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+]

@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"animationId":6,"description":"Thanh kiếm bình thường , có thể tìm thấy ở bất kỳ đâu.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0}],"iconIndex":97,"name":"Kiếm thường","note":"","params":[0,0,15,0,0,0,0,0],"price":150,"wtypeId":2},
+{"id":2,"animationId":6,"description":"Một thanh dao găm nhỏ của đạo tặc , có thể tìm thấy ở bất kỳ đâu.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0}],"iconIndex":96,"name":"Dao găm nhỏ","note":"","params":[0,0,10,0,0,0,5,0],"price":150,"wtypeId":1},
+{"id":3,"animationId":111,"description":"Một khẩu súng nhỏ dùng trong lúc phòng thân.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":2,"value":0.5}],"iconIndex":104,"name":"Khẩu súng nhỏ","note":"","params":[0,0,100,0,0,0,10,0],"price":10000,"wtypeId":9},
+{"id":4,"animationId":3,"description":"Một thanh gậy phép gỗ dành cho pháp sư tập sự.","etypeId":1,"traits":[{"code":31,"dataId":2,"value":0},{"code":23,"dataId":7,"value":0.1}],"iconIndex":101,"name":"Gậy phép gỗ","note":"","params":[0,0,0,0,20,0,0,0],"price":200,"wtypeId":6},
+{"id":5,"animationId":1,"description":"Găng tay gấu dùng để phòng thân","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":6,"value":0.1}],"iconIndex":106,"name":"Găng tay gấu","note":"","params":[0,0,15,10,0,0,5,0],"price":500,"wtypeId":11},
+{"id":6,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":7,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":8,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":9,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":10,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0}
+]
